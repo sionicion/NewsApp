@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">News Alpha</string>
+    <string name="no_news">No News found.</string>
+    <string name="no_internet_connection">No internet connection.</string>
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">News Settings</string>
+    <string name="settings_order_by_label">News Categories</string>
+    <string name="settings_order_by_key" translatable="false">order_by</string>
+    <string name="settings_order_by_default" translatable="false">@string/settings_order_by_category1_value</string>
+    <string name="settings_order_by_category1_label">US Politics</string>
+    <string name="settings_order_by_category1_value" translatable="false">Trump</string>
+    <string name="settings_order_by_category2_label">Entertainment</string>
+    <string name="settings_order_by_category2_value" translatable="false">Entertainment</string>
+</resources>
